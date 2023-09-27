@@ -1,3 +1,5 @@
+# Upwork Scraper
+Interested in using this scraper? Get it here: [Upwork Scraper](https://apify.com/curious_coder/upwork-scraper)
 ## How it works
 
 Here is the sample output of this actor:
